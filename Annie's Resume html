@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <nav>
+    <a href="Homepage 2.html">Home</a>
+  </nav>
+<center>
+<h1> Annie Hoang</h1>
+<h2>UX Designer</h2>
+<Address><h4> 9901 W Rice Ave, Littleton, CO 80123</h4></Address>
+<h4>3038082986 | <a href="mailto:Anniehoangx@gmail.com">Anniehoangx@Gmail.com </a></h4>
+</center>
+</head>
+<body>
+    <hr>
+<style>
+    h1{
+        color: #5D6D7E;
+    }
+    h2{
+        color:#85929E
+    }
+    hr{
+        border:none;
+        border-top: 3px dashed #85929E;
+        color:#fff;
+        background-color:#fff;
+        height: 2px;
+        width: 100%;
+    }
+    h3{
+        color:#85929E;
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif
+    }
+    ul{
+        font-family: 'Times New Roman', Times, serif
+    }
+    
+    </style>
+    <main>
+    <section>
+    <Center><h2> Summary of Qualifications </h2></Center>
+    <ul>
+    <li>Undergraduate Business Administration student with an Informations System major; coursework includes Enterprise Data and Content Management, Designing for The Web, Technology in Business, and Introduction to Business Problem Solving</li>
+    <li>Software skills include Microsoft Excel and point-of-sales systems (POS) with experience in HTML, Java, Python, and SQL; Social Media skills include Facebook and Instagram, has CRM knowledge </li>
+    <li>Possesses strong verbal and written skills, easy to talk to and well-spoken in three languages </li>
+     <li>Five years of customer service expertise in high volume work environments; efficient in successfully interacting with a diverse range of customers providing influential customer satisfaction  </li></ul>
+     </section>
+<hr>
+<section>
+    <center><h2>Education</h2></center>
+<h4>University of Colroado Denver, Business School, Denver, CO</h4>
+<a>Bachelor of Science, Business Administration, Informations System Major; Expected graduation May 2024; 3.4GPA</a><br>
+<h4>Bear Creek High School, Lakewood, CO, 2016-2020</h4></p>
+High School diploma, 3.3 GPA</p>
+<hr>
+    </section>
+    <section>
+<center><h2>Professional Experience</h2></center>
+    <h4> Pampered Nails and Tanning, Evergreen, CO, June 2022 - Present</h4>
+    <h5>Assistant Manager</h5>
+<ul><li>Managed store operations that include maintenance, organization, and receipt reconciliation in a $7K revenue per-day personal care service salon</li>
+    <li>Completed opening and closing operations throughout the week</li>
+    <li>Created aesthetically pleasing displays attracting sales</li>
+    <li>Processed payments with accuracy and thoroughness</li><br>
+    <h4>Dick's Sporting Goods, Littleton, CO, October 2018 - June 2022 </h4> </ul>
+    <h5>Sales Associate</h5>
+    <ul><li>Worked in a $20K revenue per-day retail store and provide services for over 50 customers each day; consistently meet metric and sale plans </li>
+    <li>Responsible for organization, maintaining, stocking, and promoting sales </li>
+    <li>Provided fast and efficient service in four different departments</li>
+    <li>Oversaw inventory and pricing controls</li>
+    <li>Exceeded customer satisfaction targets by 10% </li></ul>
+    </section>
+<hr>
+<section>
+    <center><h2>Volunteer Work</h2></center>
+<h4>Habitat For Humanity November 2021 - January 2022</h4>
+<ul>
+    <li>Helped build furniture and maintain store operations</li>
+    <li>Provided quick and efficent customer service at the ReStore location</li>
+</ul>
+</section>
+</main>
+<footer>
+    <a href="/Users/anniehoang/Downloads/Homepage 2.html">HomePage</a>
+</footer>
+</body>
+</html>
